@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_
+namespace BankChallenge
 {
     class Program
     {

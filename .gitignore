@@ -1,0 +1,6 @@
+.vs
+.vscode
+/BankChallenge/bin
+/BankChallenge/obj
+/BankChallenge.Test/bin
+/BankChallenge.Test/obj
